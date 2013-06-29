@@ -1,0 +1,11 @@
+{
+  "name": "mocha-test",
+  "description": "Mocha + chai testing setup",
+  "make": true,
+  "node": {
+    "devDependencies": {
+      "mocha": "*",
+      "chai": "*"
+    }
+  }
+}
